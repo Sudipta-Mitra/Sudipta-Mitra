@@ -85,7 +85,7 @@ Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, an
 ### ⭐ Top Repositories
 
 <p align="center">
-  <a href="https://github.com/sudiptamitra/project-1" target="_blank">📁 ML Project</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Sudipta-Mitra/Car-Evaluation-Classification" target="_blank">📁 ML Project</a> &nbsp;|&nbsp;
   <a href="https://github.com/sudiptamitra/project-2" target="_blank">📁 Power BI Dashboard</a> &nbsp;|&nbsp;
   <a href="https://github.com/sudiptamitra/project-3" target="_blank">📁 NLP Model</a>
 </p>
