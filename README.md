@@ -63,7 +63,7 @@ Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, an
 
 ### 📄 Resume
 
-[[View My Resume](https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C1/view?usp=drivesdk)](#) <!-- You can replace this with your actual resume link -->
+[[View My Resume](https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C1/view?usp=drivesdk)] <!-- You can replace this with your actual resume link -->
 
 ---
 
