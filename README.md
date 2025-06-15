@@ -63,7 +63,7 @@ Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, an
 
 ### 📄 Resume
 
-[View My Resume](#) <!-- You can replace this with your actual resume link -->
+[[View My Resume](https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C1/view?usp=drivesdk)](#) <!-- You can replace this with your actual resume link -->
 
 ---
 
@@ -86,7 +86,7 @@ Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, an
 
 <p align="center">
   <a href="https://github.com/Sudipta-Mitra/Car-Evaluation-Classification" target="_blank">📁 ML Project</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Sudipta-Mitra/E-commerce-dashboard" target="_blank">📁 Power BI Dashboard</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Sudipta-Mitra/SuperStore-Sales-Dashboard" target="_blank">📁 Power BI Dashboard</a> &nbsp;|&nbsp;
   <a href="https://github.com/sudiptamitra/project-3" target="_blank">📁 NLP Model</a>
 </p>
 
