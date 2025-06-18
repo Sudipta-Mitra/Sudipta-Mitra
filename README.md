@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sudipta Mitra</h1>
 
 <h3 align="center">
-  A passionate data science student from India with skills in Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, and C programming.<br>
+  A passionate data science student from India with skills in Python, Excel, Power BI, Machine Learning, Deep Learning and NLP .<br>
   On a journey to become a data scientist by combining strong analytical skills with cutting-edge technologies and continuous learning.
 </h3>
 
