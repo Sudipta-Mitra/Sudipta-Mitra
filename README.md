@@ -75,7 +75,7 @@ My learning journey is always evolving. Here are the key areas I'm currently div
 
 ## 💬 Let's Connect!
 
-I'm always open to discussions on **Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, and transformers**. Feel free to reach out!
+> I'm always open to discussions on **Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, and transformers**. Feel free to reach out!
 
 ---
 
@@ -91,7 +91,7 @@ Explore my comprehensive experience.
 
 ---
 
----
+
 
 ## 🔥 GitHub Activity & Stats
 
@@ -108,6 +108,7 @@ Keeping track of my contributions:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipta-Mitra&theme=dark&ring=ff0000&currstreakLabel=ffffff&currstreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=1a1a1a" alt="GitHub Streak" />
 </p>
 
+---
 
 ## ⭐ Featured Projects
 
