@@ -50,36 +50,38 @@ My learning journey is always evolving. Here are the key areas I'm currently div
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🧠_Deep_Learning_&_NLP-blue?logoColor=white" alt="Deep Learning & NLP" width="400" />
+    <img src="https://img.shields.io/badge/🧠_Deep_Learning_&_NLP-blue?logoColor=white" alt="Deep Learning & NLP" width="250" />
   </a>
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_Real--world_Data_Science_Projects-blue?logoColor=white" alt="Real-world Data Science Projects" width="600" />
+    <img src="https://img.shields.io/badge/🤖_Transformers_(NLP_Focus)-blue?logoColor=white" alt="Transformers (NLP Focus)" width="270" />
   </a>
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/📊_Data_Visualization_with_Power_BI-blue?logoColor=white" alt="Data Visualization with Power BI" width="600" />
+    <img src="https://img.shields.io/badge/📊_Power_BI_Data_Visualization-blue?logoColor=white" alt="APower BI Data Visualization" width="310" />
   </a>
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_Transformers_(NLP_Focus)-blue?logoColor=white" alt="Transformers (NLP Focus)" width="500" />
+    <img src="https://img.shields.io/badge/🔍_Real--world_Data_Science_Projects-blue?logoColor=white" alt="Real-world Data Science Projects" width="350" />
   </a>
 </p>
+
+
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always open to discussions on **Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, and C Programming**. Feel free to reach out!
+I'm always open to discussions on **Python, Data Cleaning, Machine Learning, Deep Learning, Excel, Power BI, NLP, and transformers**. Feel free to reach out!
 
 ---
 
 ## 📄 My Resume
 
-Ready to learn more about my experience?
+Explore my comprehensive experience.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?usp=drivesdk" target="_blank">
