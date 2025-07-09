@@ -23,9 +23,15 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 📌 About Me
 
-I'm a **third-year Data Science student** at NSHM Knowledge Campus, Kolkata. My academic journey is fueled by a deep curiosity about **data's impact on the world** and a drive to apply my technical skills to meaningful challenges. I strongly believe in a **hands-on learning approach**, continuously growing with every project I undertake.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+- 🎓 Data Science student passionate about extracting knowledge from data  
+- 💡 Interested in Machine Learning, Deep Learning & Transformers  
+- 📚 Continuously learning Large Language Models and real-world analytics  
+- 🚀 Love working on impactful AI projects and visualizations  
+- 🧠 Curious about combining cognitive science & AI
 
 ---
 
@@ -43,35 +49,19 @@ Showcasing my technical toolkit:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="vscode" />
 </p>
 
 ---
-## 🌱 Currently Exploring
-
-My learning journey is always evolving. Here are the key areas I'm currently diving into:
+## 🚀 Currently Exploring
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🧠_Deep_Learning_&_NLP-blue?logoColor=white" alt="Deep Learning & NLP" width="250" />
-  </a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-%23FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs%20Exploration-%2324292e?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-%232195f3?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_Transformers_(NLP_Focus)-blue?logoColor=white" alt="Transformers (NLP Focus)" width="270" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/📊_Power_BI_Data_Visualization-blue?logoColor=white" alt="APower BI Data Visualization" width="310" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1jpWrJPfUM6GrkI8DYlbcesDIBDhhe7C/view?" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_Real--world_Data_Science_Projects-blue?logoColor=white" alt="Real-world Data Science Projects" width="350" />
-  </a>
-</p>
-
-
 
 ---
 
@@ -133,3 +123,6 @@ A selection of my recent work:
 ### 💡 A Little Insight
 
 > "Data is not just information; it's the raw material of a new future, and I'm dedicated to shaping it."
+<p align="right">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" />
+</p>
