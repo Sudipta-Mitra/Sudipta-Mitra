@@ -121,7 +121,7 @@ A selection of my recent work:
 ---
 
 ### 💡 A Little Insight
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=1000&lines=Data+is+not+just+information%3B+it's+the+raw+material+of+a+new+future%2C+and+I'm+dedicated+to+shaping+it." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=blue&center=true&vCenter=true&width=1000&lines=Data+is+not+just+information%3B+it's+the+raw+material+of+a+new+future%2C+and+I'm+dedicated+to+shaping+it." />
 
 
 <p align="center">
