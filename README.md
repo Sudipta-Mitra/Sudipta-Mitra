@@ -105,7 +105,8 @@ Keeping track of my contributions:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudipta-Mitra&theme=dark&ring=ff0000&currstreakLabel=ffffff&currstreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=1a1a1a" alt="GitHub Streak" />
 </p>
-
+<p align="left"><img src="https://github-trophies.vercel.app/?username=Sudipta-Mitra&theme=radical" alt="BikramMondal5" />
+</p>
 ---
 
 ## ⭐ Featured Projects
@@ -124,21 +125,12 @@ A selection of my recent work:
   </a>
 </p>
 
+
+
+
 ---
-# 🍁 My Github Stats:
 
-![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en" alt="BikramMondal5" />
-</p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="BikramMondal5" /></p>
-
-<p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
-</p>
----
 ### 💡 A Little Insight
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=blue&center=true&vCenter=true&width=1000&lines=Data+is+not+just+information%3B+it's+the+raw+material+of+a+new+future%2C+and+I'm+dedicated+to+shaping+it." />
 
