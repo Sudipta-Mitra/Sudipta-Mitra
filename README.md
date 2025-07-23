@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <img height="180" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" alt="Hi there!" />
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sudipta-Mitra&label=Profile%20views&color=0e75b6&style=flat" alt="sudipta-mitra" /> </p>
   <br />
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudipta+Mitra;Data+Science+%7C+ML+%7C+LLMs+Explorer;Lifelong+Learner+%26+Problem+Solver" />
 </div>
