@@ -114,6 +114,9 @@ Keeping track of my contributions:
 A selection of my recent work:
 
 <p align="center">
+  <a href="https://github.com/Sudipta-Mitra/Data-Science-Repo" target="_blank">
+    <img src="https://img.shields.io/badge/Projects%20list-List%of%All%20Projects-red?style=for-the-badge&logo=github&logoColor=white" alt="Project list" />
+  </a> &nbsp;
   <a href="https://github.com/Sudipta-Mitra/Car-Evaluation-Classification" target="_blank">
     <img src="https://img.shields.io/badge/ML%20Project-Car%20Evaluation-red?style=for-the-badge&logo=github&logoColor=white" alt="ML Project" />
   </a> &nbsp;
